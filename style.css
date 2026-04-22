@@ -1,9 +1,9 @@
 :root {
-    --bg-color: #030b17;
-    --card-bg: rgba(10, 20, 35, 0.8);
-    --primary: #2563eb;
-    --primary-glow: rgba(37, 99, 235, 0.5);
-    --secondary: #60a5fa;
+    --bg-color: #1a0612;
+    --card-bg: rgba(45, 10, 30, 0.8);
+    --primary: #db2777;
+    --primary-glow: rgba(219, 39, 119, 0.5);
+    --secondary: #f472b6;
     --text-main: #f8fafc;
     --text-dim: #94a3b8;
     --glass-border: rgba(255, 255, 255, 0.1);
@@ -20,8 +20,8 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--bg-color);
     background-image: 
-        radial-gradient(circle at 20% 30%, rgba(37, 99, 235, 0.15) 0%, transparent 40%),
-        radial-gradient(circle at 80% 70%, rgba(96, 165, 250, 0.1) 0%, transparent 40%);
+        radial-gradient(circle at 20% 30%, rgba(219, 39, 119, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 80% 70%, rgba(244, 114, 182, 0.1) 0%, transparent 40%);
     color: var(--text-main);
     height: 100vh;
     display: flex;
